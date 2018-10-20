@@ -1,0 +1,4 @@
+result=( ${(Q)"${(z)$(<<\EO:result
+'simlabs/node' 'simlabs/tc-agent' 'simlabs/robonomics-ros' 'simlabs/simserver'
+EO:result
+)}"} )
